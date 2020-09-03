@@ -1,0 +1,8 @@
+image:
+  file: .gitpod.Dockerfile
+vscode:
+  extensions:
+    - evilz.vscode-reveal@4.0.4:q3Ae+UO4Nv6SYzToAsa1zw==
+ports:
+- port: 3000
+  onOpen: open-preview
